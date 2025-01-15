@@ -11,3 +11,6 @@ Tool Used : IntelliJ IDEA
 1. Options are displays to the user to choose a specific operation to perform on a text file.
 2.File Writing: The program appends user-provided content at the end into a file using BufferedWriter. 
 3. File Reading: It reads and displays the content of the file line by line using BufferedReader. 4. File Modification: It replaces old content with new content by searching with the content or word we want to replace.
+
+# OUTPUT OF THE TASK 
+![Screenshot (18)](https://github.com/user-attachments/assets/08293a7e-d29d-4c71-b24c-ece66c61b6af)
